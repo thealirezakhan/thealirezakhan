@@ -166,6 +166,11 @@ A Python script to send Direct Messages to anyone on Instagram programmatically.
 
 A website for Students of M.H Saboo Siddik to create and manage notes,timetables,pyqs,etc
 
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white](https://img.shields.io/badge/HTML-5+-E34F26?logo=html5))
+![CSS](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white](https://img.shields.io/badge/-CSS-000?logo=CSS))
+![CSS]([https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white](https://img.shields.io/badge/-CSS-000?logo=CSS)](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square))
+
 ![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
 
 
@@ -188,7 +193,7 @@ A website for Students of M.H Saboo Siddik to create and manage notes,timetables
 
 <br>
 
-![Animated Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B26,100:24283B&height=120&section=footer&text=Built%20with%20passion%20%7C%20Deployed%20with%20purpose&fontSize=18&fontColor=FFFFFF&animation=twinkling)
+
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=thealirezakhan&label=Total%20Visitors&labelColor=24283B&color=30D158&style=flat-square)
 
