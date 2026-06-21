@@ -83,7 +83,7 @@
 
 ---
 
-## **`>./pinned-repos`**
+## **`> cat ./pinned-repos`**
 
 <div align="center">
 
@@ -91,57 +91,84 @@
 <tr>
 <td width="50%">
 
-#### **NoScamSquad**
-> UPI Fraud Detection System
+#### [**Ustaad**](https://github.com/thealirezakhan/Ustaad)
+> Document Learning Engine
 
-A hybrid ML pipeline combining **LightGBM**, **Isolation Forest**, and a rule-based engine for real-time fraud classification with explainable risk scoring.
+Production-ready web app that turns PDFs into a structured daily learning system. Deterministic lessons with source traceability — no AI hallucinations. Built with **Next.js 15**, **Tailwind CSS 4**, **SQLite**, and a **Python PDF engine**.
 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2B2B2B?style=flat-square&logo=lightgbm&logoColor=white)
-![ML](https://img.shields.io/badge/ML-FF6F00?style=flat-square)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thealirezakhan&repo=noscamsquad&theme=chartreuse-dark&hide_border=true)](https://github.com/thealirezakhan/noscamsquad)
+
 
 </td>
 <td width="50%">
 
-#### **GreenLedger**
-> Blockchain Agricultural Supply Chain
+#### [**sadaqah-connect**](https://github.com/thealirezakhan/sadaqah-connect)
+> Charity & Donation Platform
 
-A decentralized system built on **Ethereum** smart contracts for transparent, tamper-proof tracking of agricultural produce from farm to consumer.
+A modern web application connecting donors with charitable causes. Built with **React**, **TypeScript**, **Tailwind CSS**, and **shadcn-ui** for a seamless giving experience.
 
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thealirezakhan&repo=greenledger&theme=chartreuse-dark&hide_border=true)](https://github.com/thealirezakhan/greenledger)
+
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-#### **AIRA**
-> AI Resume Analysis & Website Generator
+#### [**Mergex**](https://github.com/thealirezakhan/Mergex)
+> PDF Merge & Convert Utility
 
-An AI-powered **Streamlit** app for ATS-based resume analysis, scoring, and automated portfolio website generation from structured resume data.
+A Python tool for merging and converting PDF files with batch processing support. Lightweight, efficient, and built for everyday document workflows.
 
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-24283B?style=flat-square)
-![AI](https://img.shields.io/badge/AI-FF6F00?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thealirezakhan&repo=aira&theme=chartreuse-dark&hide_border=true)](https://github.com/thealirezakhan/aira)
+
 
 </td>
 <td width="50%">
 
-#### **More Projects Coming Soon**
-> Always Building
+#### [**theonlinestore247**](https://github.com/thealirezakhan/theonlinestore247)
+> E-Commerce Backend API
 
-Currently working on advanced fraud detection models, decentralized applications, and AI-powered developer tools. Stay tuned.
+Full-featured e-commerce backend built with **Node.js** and **Express**. Includes product models, route handling, file uploads, and utility modules — a complete server-side foundation for online stores.
 
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-![Building](https://img.shields.io/badge/Building-24283B?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square)
+
+
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### [**Automated-Instagram-DM**](https://github.com/thealirezakhan/Automated-Instagram-DM)
+> Instagram DM Automation
+
+A Python script to send Direct Messages to anyone on Instagram programmatically. Automate outreach and engagement with a simple, lightweight tool.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+
+</td>
+<td width="50%">
+
+#### [**SukuiNote**](https://github.com/thealirezakhan/SukuiNote)
+> SukuiNote
+
+A website for Students of M.H Saboo Siddik to create and manage notes,timetables,pyqs,etc
+
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow?style=flat-square)
+
+
 
 </td>
 </tr>
@@ -151,15 +178,7 @@ Currently working on advanced fraud detection models, decentralized applications
 
 ---
 
-## **`> cat ./contribution-graph`**
 
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/thealirezakhan/thealirezakhan/output/github-snake-dark.svg)
-
-</div>
-
----
 
 <div align="center">
 
