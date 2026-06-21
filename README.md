@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B26,100:24283B&height=220&section=header&text=ALI%20REZA%20KHAN&fontSize=50&fontColor=FFFFFF&fontAlignY=35&desc=Building%20Intelligent%20Systems%20%7C%20AI%20%7C%20Blockchain%20%7C%20Full%20Stack&descSize=16&descAlignY=55&animation=twinkling&stroke=FFFFFF" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24283B&center=true&vCenter=true&width=600&height=100&lines=AI+%2F%2F+ML+Engineer+%7C+Blockchain+Developer;Full+Stack+Builder+%7C+Problem+Solver;Turning+Ideas+into+Intelligent+Systems&libs=serif)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40DF68&center=true&vCenter=true&width=600&height=100&lines=AI+%2F%2F+ML+Engineer+%7C+Blockchain+Developer;Full+Stack+Builder+%7C+Problem+Solver;Turning+Ideas+into+Intelligent+Systems&libs=serif)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thealirezakhan&color=24283B&style=flat-square&label=PROFILE+VIEWS)
 
@@ -15,30 +15,28 @@
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   class AliRezaKhan:                                        │
-│       def __init__(self):                                   │
-│           self.role    = "CS Student @ M.H. Saboo Siddik"   │
-│           self.location = "Mumbai, Maharashtra"             │
-│           self.focus   = ["AI/ML", "Blockchain", "Full Stack"] │
-│           self.motto   = "Build systems that solve problems."│
-│                                                             │
-│       def current_mission(self):                            │
-│           return "Building intelligent & scalable solutions" │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+                                                             
+   class Ali_Reza_Khan:                                        
+       def __init__(self):                                   
+           self.role    = "CS Student @ M.H. Saboo Siddik"   
+           self.location = "Mumbai, Maharashtra"             
+           self.focus   = ["AI/ML", "Blockchain", "Full Stack"]
+           self.motto   = "Build systems that solve problems."
+                                                             
+       def current_mission(self):                            
+           return "Building intelligent & scalable solutions" 
+                                                             
+
 ```
 
 </div>
 
-I'm a Computer Science student who doesn't just learn technologies — I **build with them**. From designing hybrid deep learning architectures for smart contract vulnerability detection to engineering fraud detection pipelines that make real-time decisions, I operate at the intersection of **AI, blockchain, and production-grade software**.
 
-I believe the best engineers are the ones who can translate complex problems into elegant systems. That's exactly what I do.
+
 
 ---
 
-## **`> ls ./expertise`**
+## **`> ./expertise`**
 
 <div align="center">
 
@@ -79,14 +77,13 @@ I believe the best engineers are the ones who can translate complex problems int
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 </div>
 
 ---
 
-## **`> cat ./pinned-repos`**
+## **`>./pinned-repos`**
 
 <div align="center">
 
